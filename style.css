@@ -1,0 +1,43 @@
+h1{
+	color:green;
+	font-family: Times new roman;
+    font-size: 40px;
+
+}
+p{
+	color:black;
+	font-family: David;
+    font-size: 20px;
+}
+h2{
+		color: red;
+	font-family: Georgia;
+    font-size: 30px;
+}
+
+
+#a1{
+	color: orange;
+}
+
+
+#a0{
+	font-family: Monotype Corsiva;
+}
+
+#a2{
+	font-family: Cooper Black
+
+}
+
+.message{
+	color:#747474;
+	background-color: #E4E4E4;
+	border: 3px solid #323232;
+}
+
+.message2{
+	color:#747474;
+	background-color: (256, 35, 88);
+	border: 3px solid #323232;
+}

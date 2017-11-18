@@ -1,0 +1,28 @@
+h1{
+	color:green;
+	font-family: Lucida Handwriting;
+    font-size: 50px;
+
+}
+p{
+	color:black;
+	font-family: Gungsuh;
+    font-size: 16px;
+}
+h2{
+		color: red;
+	font-family: Georgia;
+    font-size: 30px;
+}
+
+#b1{
+	font-family: Harrington;
+}
+
+#b2{
+	font-family: SketchFlow Print;
+}
+
+#b0{
+	font-family: Comic Sans MS;
+}
