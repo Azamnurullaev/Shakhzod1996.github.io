@@ -17,7 +17,7 @@ h2{
 
 
 #a1{
-	color: orange;
+	color: red;
 }
 
 
@@ -41,3 +41,8 @@ h2{
 	background-color: (256, 35, 88);
 	border: 3px solid #323232;
 }
+
+
+body 
+{
+background:url(fonkosmos.jpg)}
